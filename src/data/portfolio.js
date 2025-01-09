@@ -23,6 +23,7 @@ const projects = {
         description:
           "Developed Features, fixed bugs, wrote tests, refactored code for WordPress.com  backend in PHP",
         technologies: ["PHP"],
+        github: "https://code.a8c.com/people/commits/630/"
       },
     {
       title: "Audio Player",
