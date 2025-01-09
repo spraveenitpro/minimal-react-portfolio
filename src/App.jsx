@@ -33,7 +33,6 @@ const App = () => {
         <Navbar toggleTheme={toggleTheme} theme={theme} />
         <About />
         <Projects />
-        <Experience />
         <Skills />
         <Contact />
       </main>

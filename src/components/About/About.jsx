@@ -15,7 +15,7 @@ const About = () => {
         <a href={linkedin} target="_blank">
           <FaLinkedinIn className="icon" size={30} />
         </a>
-        <a href={cv} target="_blank">
+        <a href="/resume.pdf" target="_blank">
           Download CV
         </a>
       </div>
