@@ -3,12 +3,6 @@
 
 it is a minimal React portfolio that you can use to present yourself and list your projects, experiences and skills.
 
-## Demo
-
-https://minimal-reactjs-portfolio.netlify.app/
-
-![Animation](https://user-images.githubusercontent.com/30008865/178179020-20ec6512-415f-4f44-8982-84d85c7c46a3.gif)
-
 
 ## Colors
 
