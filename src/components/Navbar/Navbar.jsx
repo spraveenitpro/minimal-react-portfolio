@@ -48,7 +48,7 @@ const mobileMenu = (toggleTheme, theme) => {
 };
 
 const Navbar = ({ toggleTheme, theme }) => {
-  const logo = "{SS}.";
+  const logo = "{PS}.";
   return (
     <header>
       <nav className="navbar">
